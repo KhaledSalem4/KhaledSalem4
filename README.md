@@ -1,17 +1,28 @@
 <!-- Background Gradient Container -->
 <div style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 30px; border-radius: 15px;">
 
-<h1 style="color:white;">
+<h1 style="color:white; text-align:center;">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Hey! Nice to see you.
 </h1>
 
-<p style="color:white;">
-  Welcome to my page! </br> 
-  I'm <b style="font-size:22px;">Khaled Ahmed Salem</b> 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197620.png" width="18"/> 
-  , Fullstack <b>.NET</b> Developer from Egypt.
+<!-- Typing Animation Name + Egypt Flag -->
+<p style="color:white; text-align:center; font-size:28px; font-weight:bold;">
+  <span id="typing"></span> <img src="https://cdn-icons-png.flaticon.com/512/197/197620.png" width="24"/>
 </p>
+
+<script>
+const text = "Khaled Ahmed Salem, Fullstack .NET Developer";
+let i = 0;
+function typing() {
+    if (i < text.length) {
+        document.getElementById("typing").innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typing, 100);
+    }
+}
+typing();
+</script>
 
 <!-- 🔥 GIF Animation -->
 <p align="center">
@@ -42,11 +53,11 @@
 </p>
 
 <h3 style="color:white;">My Projects</h3>
-<ul>
+<!-- <ul>
   <li><b>Project 1:</b> Description or link to your project</li>
   <li><b>Project 2:</b> Description or link to your project</li>
   <li><b>Project 3:</b> Description or link to your project</li>
-</ul>
+</ul> -->
 
 <h3 style="color:white;">Where to find me</h3>
 <p>
