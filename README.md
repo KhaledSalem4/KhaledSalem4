@@ -1,8 +1,24 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<!-- Background Gradient Container -->
+<div style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 30px; border-radius: 15px;">
 
-<p>Welcome to my page! </br> I'm <b>Khaled Ahmed Salem</b>, Fullstack <b>.NET</b> Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197620.png" width="13"/> <b>Egypt</b>.</p>
+<h1 style="color:white;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey! Nice to see you.
+</h1>
 
-<h3>Things I code with</h3>
+<p style="color:white;">
+  Welcome to my page! </br> 
+  I'm <b style="font-size:22px;">Khaled Ahmed Salem</b> 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197620.png" width="18"/> 
+  , Fullstack <b>.NET</b> Developer from Egypt.
+</p>
+
+<!-- 🔥 GIF Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+<h3 style="color:white;">Things I code with</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -18,10 +34,21 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-<h3>My latest posts</h3>
-<p>(You can add your posts here later if you want — currently removed.)</p>
+<h3 style="color:white;">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledSalem4&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaledSalem4&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-<h3>Where to find me</h3>
+<h3 style="color:white;">My Projects</h3>
+<ul>
+  <li><b>Project 1:</b> Description or link to your project</li>
+  <li><b>Project 2:</b> Description or link to your project</li>
+  <li><b>Project 3:</b> Description or link to your project</li>
+</ul>
+
+<h3 style="color:white;">Where to find me</h3>
 <p>
   <a href="https://github.com/KhaledSalem4" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -30,9 +57,9 @@
   <a href="https://www.linkedin.com/in/khaled-salem-121a94260/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
 </p>
 
 <hr/>
 
-<p align="center">This <i>README</i> file is generated automatically!</p>
+<p align="center" style="color:white;">This <i>README</i> file is generated automatically!</p>
+</div>
