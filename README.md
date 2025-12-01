@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Khaled Ahmed Salem
 
-### Fullstack .NET Developer | Building Scalable Web Solutions
+### Fullstack .NET Developer 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledSalem4)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledas418@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 Passionate **Fullstack .NET Developer** with expertise in building robust web applications using modern technologies. I specialize in creating efficient backend APIs and dynamic frontend interfaces, with a strong focus on clean code and best practices.
 
-- 🔭 Currently working on **EcoCollect.API** - A recycling pickup service platform
+- 🔭 Currently working on **RecycleSystem.API** - A recycling pickup service platform
 - 🌱 Actively learning **ASP.NET Core**, **Angular**, and **Cloud Technologies**
 - 💼 Seeking opportunities as a **Junior Frontend Developer**
 - 🎯 Goal: Build scalable, user-friendly applications that solve real-world problems
@@ -57,12 +57,11 @@ Passionate **Fullstack .NET Developer** with expertise in building robust web ap
 
 ## 💼 Featured Projects
 
-### 🌱 EcoCollect.API
+### 🌱 RecycleSystem.API
 A comprehensive recycling pickup service backend API that manages waste collection scheduling and rewards users with points.
 
 **Key Features:**
 - Item categorization (metal, cans, plastic, paper)
-- Minimum weight validation (2kg per item type)
 - Points reward system
 - Order confirmation workflow
 
