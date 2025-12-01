@@ -76,9 +76,9 @@ A comprehensive recycling pickup service backend API that manages waste collecti
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhaledSalem4&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledSalem4&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledSalem4&show_icons=true&theme=radical&hide_border=true&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledSalem4&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledSalem4&layout=compact&theme=radical&hide_border=false)
 
 </div>
 
